@@ -94,6 +94,6 @@
     "vue-svg-inline-loader": "^2.1.2",
     "vue-template-compiler": "^2.6.12",
     "wait-for-expect": "^3.0.2",
-    "workbox-webpack-plugin": "^5.1.4"
+    "workbox-webpack-plugin": "^6.1.5"
   }
 }
